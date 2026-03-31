@@ -25,7 +25,7 @@
 
 #define NUM_THREADS 5
 #define STACK_SIZE 16384
-#define INCREMENTS_PER_THREAD 200000u
+#define INCREMENTS_PER_THREAD 50000000u
 
 /** Estados da thread no escalonador simplificado. */
 typedef enum {
